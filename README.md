@@ -1,4 +1,4 @@
-# Favorite picker
+# Umamusume picker
 
 Cloned from [favorite-picker](https://github.com/antialiasis/favorite-picker) and modified for Umamusume content.
 
